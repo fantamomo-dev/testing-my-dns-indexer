@@ -73,3 +73,6 @@ pbx:
 status: # me@cyteon.dev
 - type: A
   value: 65.21.241.32
+zzz:
+- type: A
+  value: 65.21.241.32
