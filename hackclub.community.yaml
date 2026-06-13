@@ -10,6 +10,10 @@ this-record-should-work:
   type: A
   value: 35.158.87.123
 
+this-record-should-also-work:
+  type: A
+  value: 35.158.87.123
+
 aus: # benjamin.graetz@henleyhs.sa.edu.au U0828CN2BL4
 - ttl: 600
   type: A
