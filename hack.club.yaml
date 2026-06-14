@@ -10,12 +10,6 @@
   values:
   - ahrefs-site-verification_047924a9a454abb4497f9a4389b610eeca5538ca8d46ab4288da0da0b8acc282
 
-
-testing-dns-3:
-  ttl: 100
-  type: CNAME
-  value: hackclub.com.
-
 aces: # U092CHMLB24
   type: CNAME
   value: a.selfhosted.hackclub.com.
