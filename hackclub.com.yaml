@@ -761,10 +761,6 @@ smtp._domainkey.mail.assemble:
 - ttl: 300
   type: TXT
   value: k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEEhn+RqVZ0JyEzyjhXDPbqNr3yEUBAY1etOwaHxKCzRbJarGsbjtuyDhMaK7fqJOOqrUDyCfb2M14WtyqydYNKSw3qQpgHAmLsK5TPftGhnJxZSah2fPlLEqPH1UW/GhRRq0MP4k/J+/FUf7C7CKBlHt9qbvtRrp3V964xGUgzwIDAQAB
-music.assemble:
-- ttl: 300
-  type: A
-  value: 192.9.235.142
 preflight.assemble:
   ttl: 300
   type: CNAME
@@ -782,10 +778,6 @@ ticketing.assemble:
   type: CNAME
   value: cname.vercel-dns.com.
 ticketing-dev.assemble:
-  ttl: 300
-  type: CNAME
-  value: cname.vercel-dns.com.
-assets:
   ttl: 300
   type: CNAME
   value: cname.vercel-dns.com.
