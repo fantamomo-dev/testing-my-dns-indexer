@@ -15,10 +15,6 @@ testing-dns-2:
   type: CNAME
   value: hackclub.com.
 
-testing-dns-2:
-  type: CNAME
-  value: www.hackclub.com.
-
 aces: # U092CHMLB24
   type: CNAME
   value: a.selfhosted.hackclub.com.
