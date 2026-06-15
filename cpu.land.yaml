@@ -16,3 +16,6 @@
 'www':
   type: CNAME
   value: 999cc3e77f950bf4.vercel-dns-016.com.
+"test":
+- type: CNAME
+  value: hackclub.com.
