@@ -45,6 +45,11 @@
 44.74:
 - type: CNAME
   value: 8e42daa9edbe9df1.vercel-dns-016.com.
+
+fantamomo:
+- type: CNAME
+  value: fantamomo.hackclub.app.
+  
 67: # meghana@hackclub.com U06P62WGWAV
   type: CNAME
   value: 011deaf9e530ac38.vercel-dns-013.com.
