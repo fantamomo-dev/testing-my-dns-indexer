@@ -48,7 +48,7 @@
 
 fantamomo:
 - type: CNAME
-  value: fantamomo.hackclub.app.
+  value: a.ingress.tier2.infra.hackclub.com.
   
 67: # meghana@hackclub.com U06P62WGWAV
   type: CNAME
